@@ -1,0 +1,4 @@
+host: ftpupload.net
+username: unaux_30592168
+password: zl7tn3f4tx1q
+port: 21
